@@ -218,7 +218,7 @@ ss -natlp
 
 ![](./images/20230914115227.png)
 
-Here we can see that there is a service running on port 9666, but in our enumeration phase we couldn't find anything related, so maybe it was blocked by a firewall, so it's time to see what is this service.
+Here we can see that there is a service running on port 8888, but in our enumeration phase we couldn't find anything related, so maybe it was blocked by a firewall, so it's time to see what is this service.
 
 We will use a technique called "Port forwarding", i recommend you this article to read about it:
 Link: [Article On Medium ](https://zakaria17.medium.com/linux-privilege-escalation-through-local-and-remote-port-forwarding-with-ssh-51c7187495dc)
